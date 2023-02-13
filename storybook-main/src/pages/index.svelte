@@ -8,7 +8,7 @@
 	};
 </script>
 
-<p>{count}</p>
+<p>{count}1</p>
 <div>
 	<button on:click="{clickHandler}" class="">button</button>
 </div>
